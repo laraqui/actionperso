@@ -11,5 +11,5 @@ jobs:
       - name: Dire bonjour avec mon action
         uses: laraqui/actionperso@main
         with:
-          nom: "laraqui"
-          langue: "fr"
+          nom: "licence dfb"
+          langue: "es"
