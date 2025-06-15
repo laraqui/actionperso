@@ -12,4 +12,3 @@ jobs:
         uses: laraqui/actionperso@main
         with:
           nom: "licence dfb"
-          langue: "es"
